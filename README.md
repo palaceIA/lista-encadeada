@@ -61,17 +61,17 @@ A GUI foi implementada com **Java Swing**, permitindo:
 ## 🧱 Estrutura de Pastas
 📦 src/
 ┣ 📂 app/
-┃ ┣ 📂 gui/
+┃ ┣ 📂 gui/                
 ┃ ┃ ┣ 📜 ListGUI.java
 ┃ ┃ ┗ 📜 ListVisualizerGUI.java
-┃ ┣ 📂 struct/
+┃ ┣ 📂 struct/             
 ┃ ┃ ┣ 📂 simple/
-┃ ┃ ┃ ┣ 📜 ListIncadeSimple.java
-┃ ┃ ┃ ┗ 📜 NoSimple.java
+┃ ┃ ┃ ┣ 📜 ListIncadeSimple.java    
+┃ ┃ ┃ ┗ 📜 NoSimple.java            
 ┃ ┃ ┣ 📂 duple/
-┃ ┃ ┃ ┣ 📜 ListDoubleIncluded.java
-┃ ┃ ┃ ┗ 📜 NoDouble.java
+┃ ┃ ┃ ┣ 📜 ListDoubleIncluded.java  
+┃ ┃ ┃ ┗ 📜 NoDouble.java           
 ┃ ┃ ┗ 📂 circular/
-┃ ┃ ┃ ┣ 📜 ListCircular.java
-┃ ┃ ┃ ┗ 📜 NoCircular.java
-┃ ┗ 📜 Main.java
+┃ ┃ ┃ ┣ 📜 ListCircular.java        
+┃ ┃ ┃ ┗ 📜 NoCircular.java          
+┃ ┗ 📜 Main.java         
